@@ -24,23 +24,23 @@
 
 5. The application will run on the provided URL or http://localhost:8080.
 
-##Prerequisites:
+## Prerequisites:
 Latest version of a modern web browser.
 Node.js and npm.
 Install http-server using the following command:
 npm install http-server --save-dev
 
-##Future Updates:
+## Future Updates:
 Integration of accurate geolocation for enhanced user experience.
 
-##Technology Stack:
+## Technology Stack:
 Frontend: HTML, CSS (Bootstrap), JavaScript
 Backend: Node.js (npm for package management)
 API: OpenWeather API
 
-##Author:
+## Author:
 [Ayoub KODDAM](https://github.com/ayoubkoddam)
 
-##Show Your Support:
+## Show Your Support:
 Leave a star ⭐️ to show your appreciation!
 Fork and modify it to make it your own!
