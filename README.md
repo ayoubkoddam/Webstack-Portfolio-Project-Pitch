@@ -24,11 +24,18 @@
 
 5. The application will run on the provided URL or http://localhost:8080.
 
-## Prerequisites:
-Latest version of a modern web browser.
-Node.js and npm.
-Install http-server using the following command:
-npm install http-server --save-dev
+## Prérequis
+
+Avant de démarrer l'application, assurez-vous d'avoir les éléments suivants installés :
+
+1. **Dernière version d'un navigateur web moderne.**
+2. **Node.js et npm.**  
+   Vous pouvez télécharger Node.js depuis [leur site officiel](https://nodejs.org/).
+3. **Installer http-server**  
+   Utilisez la commande suivante pour installer http-server en tant que dépendance de développement :
+   ```bash
+   npm install http-server --save-dev
+
 
 ## Future Updates:
 Integration of accurate geolocation for enhanced user experience.
